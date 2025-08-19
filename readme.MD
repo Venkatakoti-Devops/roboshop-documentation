@@ -10,7 +10,7 @@ Below is the communication between components and dependency. This dependency co
 * We use web server to deploy these kind of applications.
 * Earlier Apache Server was popular, Now Nginx is the most popular web server.
 
-### APP TIER:
+### APP/Backend TIER:
 * APP/API Tier is the one which has backend technologies like Java, .NET, Python, Go, Php, etc.
 * Earlier Backend technologies had servers like tomcat, Jboss, IIS, etc.
 * Now all backend technologies are coming up with in built servers.
